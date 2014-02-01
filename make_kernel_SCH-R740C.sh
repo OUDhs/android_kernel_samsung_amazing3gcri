@@ -1,0 +1,2 @@
+make amazing3g_cri_00_defconfig
+make
